@@ -75,3 +75,10 @@ docker build -t foo .
 Go to angular keycloak-frontend folder, run console(terminal) , then run `npm install`, after `ng serve`.
 
 Angular http://localhost:4200
+
+
+### Steps
+
+1. Navigate to welcom page
+
+![logo](pict/1.png)
