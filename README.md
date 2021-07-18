@@ -1,5 +1,9 @@
 # keycloak_spring_angular
 
+Simple rest services to creating resources and share them using keycloak SSO
+rest(Spring boot), Front Angular, H2
+Require(java 8, node js, angular 10, docker)
+
 [Steps](#steps)
 
 ## Run keycloak
@@ -88,5 +92,39 @@ Angular http://localhost:4200
 2. Login
 
 ![logo](pict/Selection_017.png)
+
+![logo](pict/Selection_018.png)
+
+3. Create Foo
+
+![logo](pict/Selection_020.png)
+
+4. Edit
+
+![logo](pict/Selection_021.png)
+
+5. Navigate to keycloak and copy user id
+
+![logo](pict/Selection_022.png)
+
+6. Share access
+
+![logo](pict/Selection_023.png)
+
+7. Login with user
+
+![logo](pict/Selection_024.png)
+
+8. Check avaible Foos
+
+![logo](pict/Selection_025.png)
+
+9. Register user
+
+![logo](pict/Selection_026.png)
+
+10. Check in keycloak
+
+![logo](pict/Selection_027.png)
 
 [Run](#run-keycloak)
