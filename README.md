@@ -81,4 +81,4 @@ Angular http://localhost:4200
 
 1. Navigate to welcom page
 
-![logo](pict/1.png)
+![logo](pict/Selection_016.png)
